@@ -32,7 +32,7 @@ We welcome your contributions to our code and documentation. Here's how you can 
 
 ### Environment Setup
 
-AI SDK development requires PNPM v9 (lockfile version) or higher and Node v22.
+AI development requires PNPM v9 (lockfile version) or higher and Node v22.
 
 ### Setting Up the Repository Locally
 
