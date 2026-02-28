@@ -1,6 +1,6 @@
-# Contributing to the AI SDK
+# Contributing to the AI 
 
-We deeply appreciate your interest in contributing to our repository! Whether you're reporting bugs, suggesting enhancements, improving docs, or submitting pull requests, your contributions help improve the project for everyone.
+I deeply appreciate your interest in contributing to our repository! Whether you're reporting bugs, suggesting enhancements, improving docs, or submitting pull requests, your contributions help improve the project for everyone.
 
 ## Reporting Bugs
 
@@ -47,7 +47,7 @@ To set up the repository on your local machine, follow these steps:
 
 ### Running the Examples
 
-1. `cd examples/ai-functions` (for AI SDK Core, or another example folder)
+1. `cd examples/ai-functions` (for AI, or another example folder)
 1. AI SDK Core examples: run e.g. `pnpm tsx src/stream-text/openai.ts`
    - For most examples, you need to provide relevant API keys, e.g. environment variables like `OPENAI_API_KEY`
 1. Other framework examples: run `pnpm dev` and go to the browser url
@@ -72,7 +72,7 @@ Please run `pnpm update-references` in workspace root to update the `references`
 
 ### Submitting Pull Requests
 
-We greatly appreciate your pull requests. Here are the steps to submit them:
+I greatly appreciate your pull requests. Here are the steps to submit them:
 
 1. **Create a New Branch**: Initiate your changes in a fresh branch. It's recommended to name the branch in a manner that signifies the changes you're implementing.
 2. **Add a patch changeset**: If you're updating any packages and want to ensure they're released, add a **patch** changeset to your branch by running `pnpm changeset` in the workspace root.
