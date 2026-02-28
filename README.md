@@ -226,13 +226,8 @@ This project can be adapted for:
 Contributions are welcome.
 Feel free to open an issue or submit a pull request.
 
----
 
-## License
 
-MIT License
-
-```
 
 Si quieres, puedo hacer una versión aún más impresionante para que parezca un proyecto de empresa grande 😉
 ```
