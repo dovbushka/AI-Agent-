@@ -1,4 +1,10 @@
-packages/ai/README.md
+AI-Agent
+
+AI-Agent is a TypeScript-based framework for building intelligent, tool-enabled AI applications and autonomous agents. It provides a flexible architecture for integrating large language models, executing tools, and building modern AI-driven interfaces.
+
+Designed for developers who want full control over their AI workflows.
+
+Features
 
 ````md
 # AI-Agent
