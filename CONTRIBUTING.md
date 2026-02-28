@@ -1,5 +1,6 @@
 # Contributing to the AI 
 
+
 I deeply appreciate your interest in contributing to our repository! Whether you're reporting bugs, suggesting enhancements, improving docs, or submitting pull requests, your contributions help improve the project for everyone.
 
 ## Reporting Bugs
