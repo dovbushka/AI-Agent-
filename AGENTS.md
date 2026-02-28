@@ -4,7 +4,7 @@ This file provides context for AI coding assistants (Cursor, GitHub Copilot, Cla
 
 ## Project Overview
 
-The **AI** by Vercel is a TypeScript/JavaScript SDK for building AI-powered applications with Large Language Models (LLMs). It provides a unified interface for multiple AI providers and framework integrations.
+The **AI** by Sofia is a TypeScript/JavaScript SDK for building AI-powered applications with Large Language Models (LLMs). It provides a unified interface for multiple AI providers and framework integrations.
 
 - **Repository**: https://github.com/vercel/ai
 - **Documentation**: https://ai-sdk.dev/docs
