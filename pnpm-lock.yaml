@@ -64,58 +64,58 @@ importers:
 
   examples/ai-e2e-next:
     dependencies:
-      '@ai-sdk/amazon-bedrock':
+      '@ai/amazon-bedrock':
         specifier: 4.0.69
         version: link:../../packages/amazon-bedrock
-      '@ai-sdk/anthropic':
+      '@ai/anthropic':
         specifier: 3.0.50
         version: link:../../packages/anthropic
-      '@ai-sdk/azure':
+      '@ai/azure':
         specifier: 3.0.38
         version: link:../../packages/azure
-      '@ai-sdk/cohere':
+      '@ai/cohere':
         specifier: 3.0.22
         version: link:../../packages/cohere
-      '@ai-sdk/deepseek':
+      '@ai/deepseek':
         specifier: 2.0.21
         version: link:../../packages/deepseek
-      '@ai-sdk/fireworks':
+      '@ai/fireworks':
         specifier: 2.0.36
         version: link:../../packages/fireworks
-      '@ai-sdk/google':
+      '@ai/google':
         specifier: 3.0.34
         version: link:../../packages/google
-      '@ai-sdk/google-vertex':
+      '@ai/google-vertex':
         specifier: 4.0.68
         version: link:../../packages/google-vertex
-      '@ai-sdk/groq':
+      '@ai/groq':
         specifier: 3.0.26
         version: link:../../packages/groq
-      '@ai-sdk/mcp':
+      '@ai/mcp':
         specifier: 1.0.22
         version: link:../../packages/mcp
-      '@ai-sdk/mistral':
+      '@ai/mistral':
         specifier: 3.0.21
         version: link:../../packages/mistral
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/perplexity':
+      '@ai/perplexity':
         specifier: 3.0.20
         version: link:../../packages/perplexity
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: 4.0.16
         version: link:../../packages/provider-utils
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
-      '@ai-sdk/rsc':
+      '@ai/rsc':
         specifier: 2.0.105
         version: link:../../packages/rsc
-      '@ai-sdk/valibot':
+      '@ai/valibot':
         specifier: 2.0.17
         version: link:../../packages/valibot
-      '@ai-sdk/xai':
+      '@ai/xai':
         specifier: 3.0.60
         version: link:../../packages/xai
       '@modelcontextprotocol/sdk':
@@ -212,127 +212,127 @@ importers:
 
   examples/ai-functions:
     dependencies:
-      '@ai-sdk/alibaba':
+      '@ai/alibaba':
         specifier: workspace:*
         version: link:../../packages/alibaba
-      '@ai-sdk/amazon-bedrock':
+      '@ai/amazon-bedrock':
         specifier: workspace:*
         version: link:../../packages/amazon-bedrock
-      '@ai-sdk/anthropic':
+      '@ai/anthropic':
         specifier: workspace:*
         version: link:../../packages/anthropic
-      '@ai-sdk/assemblyai':
+      '@ai/assemblyai':
         specifier: workspace:*
         version: link:../../packages/assemblyai
-      '@ai-sdk/azure':
+      '@ai/azure':
         specifier: workspace:*
         version: link:../../packages/azure
-      '@ai-sdk/baseten':
+      '@ai/baseten':
         specifier: workspace:*
         version: link:../../packages/baseten
-      '@ai-sdk/black-forest-labs':
+      '@ai/black-forest-labs':
         specifier: workspace:*
         version: link:../../packages/black-forest-labs
-      '@ai-sdk/bytedance':
+      '@ai/bytedance':
         specifier: workspace:*
         version: link:../../packages/bytedance
-      '@ai-sdk/cerebras':
+      '@ai/cerebras':
         specifier: workspace:*
         version: link:../../packages/cerebras
-      '@ai-sdk/cohere':
+      '@ai/cohere':
         specifier: workspace:*
         version: link:../../packages/cohere
-      '@ai-sdk/deepgram':
+      '@ai/deepgram':
         specifier: workspace:*
         version: link:../../packages/deepgram
-      '@ai-sdk/deepinfra':
+      '@ai/deepinfra':
         specifier: workspace:*
         version: link:../../packages/deepinfra
-      '@ai-sdk/deepseek':
+      '@ai/deepseek':
         specifier: workspace:*
         version: link:../../packages/deepseek
-      '@ai-sdk/elevenlabs':
+      '@ai/elevenlabs':
         specifier: workspace:*
         version: link:../../packages/elevenlabs
-      '@ai-sdk/fal':
+      '@ai/fal':
         specifier: workspace:*
         version: link:../../packages/fal
-      '@ai-sdk/fireworks':
+      '@ai/fireworks':
         specifier: workspace:*
         version: link:../../packages/fireworks
-      '@ai-sdk/gateway':
+      '@ai/gateway':
         specifier: workspace:*
         version: link:../../packages/gateway
-      '@ai-sdk/gladia':
+      '@ai/gladia':
         specifier: workspace:*
         version: link:../../packages/gladia
-      '@ai-sdk/google':
+      '@ai/google':
         specifier: workspace:*
         version: link:../../packages/google
-      '@ai-sdk/google-vertex':
+      '@ai/google-vertex':
         specifier: workspace:*
         version: link:../../packages/google-vertex
-      '@ai-sdk/groq':
+      '@ai/groq':
         specifier: workspace:*
         version: link:../../packages/groq
-      '@ai-sdk/huggingface':
+      '@ai/huggingface':
         specifier: workspace:*
         version: link:../../packages/huggingface
-      '@ai-sdk/hume':
+      '@ai/hume':
         specifier: workspace:*
         version: link:../../packages/hume
-      '@ai-sdk/klingai':
+      '@ai/klingai':
         specifier: workspace:*
         version: link:../../packages/klingai
-      '@ai-sdk/lmnt':
+      '@ai/lmnt':
         specifier: workspace:*
         version: link:../../packages/lmnt
-      '@ai-sdk/luma':
+      '@ai/luma':
         specifier: workspace:*
         version: link:../../packages/luma
-      '@ai-sdk/mcp':
+      '@ai/mcp':
         specifier: workspace:*
         version: link:../../packages/mcp
-      '@ai-sdk/mistral':
+      '@ai/mistral':
         specifier: workspace:*
         version: link:../../packages/mistral
-      '@ai-sdk/moonshotai':
+      '@ai/moonshotai':
         specifier: workspace:*
         version: link:../../packages/moonshotai
-      '@ai-sdk/open-responses':
+      '@ai/open-responses':
         specifier: workspace:*
         version: link:../../packages/open-responses
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: workspace:*
         version: link:../../packages/openai
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../../packages/openai-compatible
-      '@ai-sdk/perplexity':
+      '@ai/perplexity':
         specifier: workspace:*
         version: link:../../packages/perplexity
-      '@ai-sdk/prodia':
+      '@ai/prodia':
         specifier: workspace:*
         version: link:../../packages/prodia
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../../packages/provider
-      '@ai-sdk/replicate':
+      '@ai/replicate':
         specifier: workspace:*
         version: link:../../packages/replicate
-      '@ai-sdk/revai':
+      '@ai/revai':
         specifier: workspace:*
         version: link:../../packages/revai
-      '@ai-sdk/togetherai':
+      '@ai/togetherai':
         specifier: workspace:*
         version: link:../../packages/togetherai
-      '@ai-sdk/valibot':
+      '@ai/valibot':
         specifier: workspace:*
         version: link:../../packages/valibot
-      '@ai-sdk/vercel':
+      '@ai/vercel':
         specifier: workspace:*
         version: link:../../packages/vercel
-      '@ai-sdk/xai':
+      '@ai/xai':
         specifier: workspace:*
         version: link:../../packages/xai
       '@google/generative-ai':
@@ -405,10 +405,10 @@ importers:
 
   examples/angular:
     dependencies:
-      '@ai-sdk/angular':
+      '@ai/angular':
         specifier: 2.0.106
         version: link:../../packages/angular
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       '@angular/common':
@@ -475,7 +475,7 @@ importers:
 
   examples/express:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       ai:
@@ -503,7 +503,7 @@ importers:
 
   examples/fastify:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       ai:
@@ -528,7 +528,7 @@ importers:
 
   examples/hono:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       '@hono/node-server':
@@ -556,7 +556,7 @@ importers:
 
   examples/mcp:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       '@modelcontextprotocol/sdk':
@@ -575,7 +575,7 @@ importers:
         specifier: 3.25.76
         version: 3.25.76
     devDependencies:
-      '@ai-sdk/mcp':
+      '@ai/mcp':
         specifier: workspace:*
         version: link:../../packages/mcp
       '@types/express':
@@ -593,7 +593,7 @@ importers:
 
   examples/nest:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       '@nestjs/common':
@@ -681,7 +681,7 @@ importers:
 
   examples/next:
     dependencies:
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@vercel/blob':
@@ -742,10 +742,10 @@ importers:
 
   examples/next-agent:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@vercel/blob':
@@ -803,7 +803,7 @@ importers:
 
   examples/next-fastapi:
     dependencies:
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       ai:
@@ -855,7 +855,7 @@ importers:
 
   examples/next-google-vertex:
     dependencies:
-      '@ai-sdk/google-vertex':
+      '@ai/google-vertex':
         specifier: 4.0.68
         version: link:../../packages/google-vertex
       ai:
@@ -898,10 +898,10 @@ importers:
 
   examples/next-langchain:
     dependencies:
-      '@ai-sdk/langchain':
+      '@ai/langchain':
         specifier: 2.0.111
         version: link:../../packages/langchain
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@langchain/core':
@@ -971,10 +971,10 @@ importers:
 
   examples/next-openai-kasada-bot-protection:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@vercel/functions':
@@ -1026,10 +1026,10 @@ importers:
 
   examples/next-openai-pages:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       ai:
@@ -1078,10 +1078,10 @@ importers:
 
   examples/next-openai-telemetry:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@opentelemetry/api-logs':
@@ -1142,10 +1142,10 @@ importers:
 
   examples/next-openai-telemetry-sentry:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@opentelemetry/api-logs':
@@ -1212,10 +1212,10 @@ importers:
 
   examples/next-openai-upstash-rate-limits:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/react':
+      '@ai/react':
         specifier: 3.0.107
         version: link:../../packages/react
       '@upstash/ratelimit':
@@ -1270,7 +1270,7 @@ importers:
 
   examples/node-http-server:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
       ai:
@@ -1295,10 +1295,10 @@ importers:
 
   examples/nuxt-openai:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/vue':
+      '@ai/vue':
         specifier: 3.0.105
         version: link:../../packages/vue
       ai:
@@ -1350,13 +1350,13 @@ importers:
 
   examples/sveltekit-openai:
     devDependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: 3.0.37
         version: link:../../packages/openai
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: 4.0.16
         version: link:../../packages/provider-utils
-      '@ai-sdk/svelte':
+      '@ai/svelte':
         specifier: 4.0.105
         version: link:../../packages/svelte
       '@eslint/compat':
@@ -1431,20 +1431,20 @@ importers:
 
   packages/ai:
     dependencies:
-      '@ai-sdk/gateway':
+      '@ai/gateway':
         specifier: workspace:*
         version: link:../gateway
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       '@opentelemetry/api':
         specifier: 1.9.0
         version: 1.9.0
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@edge-runtime/vm':
@@ -1456,7 +1456,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       esbuild:
@@ -1483,23 +1483,23 @@ importers:
 
   packages/alibaba:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1514,32 +1514,32 @@ importers:
 
   packages/amazon-bedrock:
     dependencies:
-      '@ai-sdk/anthropic':
+      '@ai/anthropic':
         specifier: workspace:*
         version: link:../anthropic
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
-      '@smithy/eventstream-codec':
+      '@sofia/eventstream-codec':
         specifier: ^4.0.1
         version: 4.0.1
-      '@smithy/util-utf8':
+      '@sofia/util-utf8':
         specifier: ^4.0.0
         version: 4.0.0
       aws4fetch:
         specifier: ^1.0.20
         version: 1.0.20
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1554,7 +1554,7 @@ importers:
 
   packages/angular:
     dependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       '@angular/core':
@@ -1564,13 +1564,13 @@ importers:
         specifier: workspace:*
         version: link:../ai
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       eslint:
@@ -1597,20 +1597,20 @@ importers:
 
   packages/anthropic:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1625,20 +1625,20 @@ importers:
 
   packages/assemblyai:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1653,23 +1653,23 @@ importers:
 
   packages/azure:
     dependencies:
-      '@ai-sdk/openai':
+      '@ai/openai':
         specifier: workspace:*
         version: link:../openai
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1684,13 +1684,13 @@ importers:
 
   packages/baseten:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       '@basetenlabs/performance-client':
@@ -1700,7 +1700,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1715,20 +1715,20 @@ importers:
 
   packages/black-forest-labs:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1743,20 +1743,20 @@ importers:
 
   packages/bytedance:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1771,20 +1771,20 @@ importers:
 
   packages/cerebras:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1827,7 +1827,7 @@ importers:
       '@types/semver':
         specifier: ^7.5.8
         version: 7.5.8
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       ai:
@@ -1851,14 +1851,14 @@ importers:
 
   packages/cohere:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
@@ -1879,20 +1879,20 @@ importers:
 
   packages/deepgram:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1907,23 +1907,23 @@ importers:
 
   packages/deepinfra:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1938,20 +1938,20 @@ importers:
 
   packages/deepseek:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -1966,7 +1966,7 @@ importers:
 
   packages/devtools:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
       '@hono/node-server':
@@ -2057,20 +2057,20 @@ importers:
 
   packages/elevenlabs:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2085,20 +2085,20 @@ importers:
 
   packages/fal:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2113,23 +2113,23 @@ importers:
 
   packages/fireworks:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2144,23 +2144,23 @@ importers:
 
   packages/gateway:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
-      '@vercel/oidc':
+      '@sofia/oidc':
         specifier: 3.1.0
         version: 3.1.0
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 18.15.11
         version: 18.15.11
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2178,20 +2178,20 @@ importers:
 
   packages/gladia:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2206,20 +2206,20 @@ importers:
 
   packages/google:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2234,29 +2234,29 @@ importers:
 
   packages/google-vertex:
     dependencies:
-      '@ai-sdk/anthropic':
+      '@ai/anthropic':
         specifier: workspace:*
         version: link:../anthropic
-      '@ai-sdk/google':
+      '@ai/google':
         specifier: workspace:*
         version: link:../google
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       google-auth-library:
         specifier: ^10.5.0
         version: 10.5.0
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2271,20 +2271,20 @@ importers:
 
   packages/groq:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2299,23 +2299,23 @@ importers:
 
   packages/huggingface:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2330,20 +2330,20 @@ importers:
 
   packages/hume:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2358,20 +2358,20 @@ importers:
 
   packages/klingai:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2390,7 +2390,7 @@ importers:
         specifier: workspace:*
         version: link:../ai
     devDependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       '@langchain/core':
@@ -2402,7 +2402,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2421,7 +2421,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2433,20 +2433,20 @@ importers:
 
   packages/lmnt:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2461,20 +2461,20 @@ importers:
 
   packages/luma:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2489,23 +2489,23 @@ importers:
 
   packages/mcp:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       pkce-challenge:
         specifier: ^5.0.0
         version: 5.0.0
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2523,20 +2523,20 @@ importers:
 
   packages/mistral:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2551,23 +2551,23 @@ importers:
 
   packages/moonshotai:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2582,20 +2582,20 @@ importers:
 
   packages/open-responses:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2610,20 +2610,20 @@ importers:
 
   packages/openai:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2638,20 +2638,20 @@ importers:
 
   packages/openai-compatible:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2666,20 +2666,20 @@ importers:
 
   packages/perplexity:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2694,20 +2694,20 @@ importers:
 
   packages/prodia:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2732,7 +2732,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2744,7 +2744,7 @@ importers:
 
   packages/provider-utils:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
       '@standard-schema/spec':
@@ -2757,7 +2757,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       msw:
@@ -2775,7 +2775,7 @@ importers:
 
   packages/react:
     dependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       ai:
@@ -2791,7 +2791,7 @@ importers:
         specifier: 2.1.0
         version: 2.1.0
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@testing-library/jest-dom':
@@ -2812,7 +2812,7 @@ importers:
       '@types/react-dom':
         specifier: ^18
         version: 18.3.0
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       eslint:
@@ -2842,20 +2842,20 @@ importers:
 
   packages/replicate:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2870,20 +2870,20 @@ importers:
 
   packages/revai:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -2898,10 +2898,10 @@ importers:
 
   packages/rsc:
     dependencies:
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       ai:
@@ -2929,7 +2929,7 @@ importers:
       '@types/react-dom':
         specifier: ^18
         version: 18.3.0
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       '@vitejs/plugin-react':
@@ -2983,14 +2983,14 @@ importers:
 
   packages/svelte:
     dependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       ai:
         specifier: workspace:*
         version: link:../ai
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@eslint/compat':
@@ -3014,7 +3014,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       eslint:
@@ -3063,7 +3063,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -3075,23 +3075,23 @@ importers:
 
   packages/togetherai:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -3106,7 +3106,7 @@ importers:
 
   packages/valibot:
     dependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
@@ -3116,7 +3116,7 @@ importers:
       '@valibot/to-json-schema':
         specifier: ^1.3.0
         version: 1.3.0(valibot@1.1.0(typescript@5.8.3))
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -3131,20 +3131,20 @@ importers:
 
   packages/vercel:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -3159,7 +3159,7 @@ importers:
 
   packages/vue:
     dependencies:
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
       ai:
@@ -3172,7 +3172,7 @@ importers:
         specifier: ^3.3.4
         version: 3.5.13(typescript@5.8.3)
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@testing-library/jest-dom':
@@ -3187,7 +3187,7 @@ importers:
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       '@vitejs/plugin-vue':
@@ -3220,23 +3220,23 @@ importers:
 
   packages/xai:
     dependencies:
-      '@ai-sdk/openai-compatible':
+      '@ai/openai-compatible':
         specifier: workspace:*
         version: link:../openai-compatible
-      '@ai-sdk/provider':
+      '@ai/provider':
         specifier: workspace:*
         version: link:../provider
-      '@ai-sdk/provider-utils':
+      '@ai/provider-utils':
         specifier: workspace:*
         version: link:../provider-utils
     devDependencies:
-      '@ai-sdk/test-server':
+      '@ai/test-server':
         specifier: workspace:*
         version: link:../test-server
       '@types/node':
         specifier: 20.17.24
         version: 20.17.24
-      '@vercel/ai-tsconfig':
+      '@sofia/ai-tsconfig':
         specifier: workspace:*
         version: link:../../tools/tsconfig
       tsup:
@@ -3807,152 +3807,152 @@ packages:
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/client-sts@3.662.0':
+  '@aws/client-sts@3.662.0':
     resolution:
       {
         integrity: sha512-RjiXvfW3a36ybHuzYuZ6ZgddYiENiXLDGC3tlZMsKWuoVQNeoh2grx1wxUA6e4ajAIqJLXs5dAYTSXzGaAqHTA==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/core@3.662.0':
+  '@aws/core@3.662.0':
     resolution:
       {
         integrity: sha512-w64Fa4dsgM8vN7Z+QPR3n+aAl5GXThQRH8deT/iF1rLrzfq7V8xxACJ/CLVaxrZMZUPUUgG7DUAo95nXFWmGjA==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-env@3.662.0':
+  '@aws/credential-provider-env@3.662.0':
     resolution:
       {
         integrity: sha512-Dgwb0c/FH4xT5QZZFdLTFmCkdG3woXIAgLx5HCoH9Ty5G7T8keHOU9Jm4Vpe2ZJXL7JJHlLakGS65+bgXTuLSQ==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-http@3.662.0':
+  '@aws/credential-provider-http@3.662.0':
     resolution:
       {
         integrity: sha512-Wnle/uJI4Ku9ABJHof9sio28VlaSbF3jVQKTSVCJftvbKELlFOlY5aXSjtu0wwcJqDS5r78N5KM7aARUJES+DA==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-ini@3.662.0':
+  '@aws/credential-provider-ini@3.662.0':
     resolution:
       {
         integrity: sha512-jk+A5B0NRYG4KrjJ8ef1+r9bFjhpwUm/A9grJmp3JOwcHKXvI2Gy9BXNqfqqVgrK0Gns+WyhJZy6rsRaC+v1oQ==,
       }
     engines: { node: '>=16.0.0' }
     peerDependencies:
-      '@aws-sdk/client-sts': ^3.662.0
+      '@aws/client-sts': ^3.662.0
 
-  '@aws-sdk/credential-provider-node@3.662.0':
+  '@aws/credential-provider-node@3.662.0':
     resolution:
       {
         integrity: sha512-2O9wjxdLcU1b+bWVkp3YYbPHo15SU3pW4KfWTca5bB/C01i1eqiHnwsOFz/WKPYYKNj0FhXtJJjeDQLtNFYI8A==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-process@3.662.0':
+  '@aws/credential-provider-process@3.662.0':
     resolution:
       {
         integrity: sha512-1QUdtr/JiuvRjVgA8enpgCwjq7Eud8eVUT0i/vpWuFp5TV2FFq/8BD3GBkesTdy4Ylms6QVGf7J6INdfUWQEmw==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-sso@3.662.0':
+  '@aws/credential-provider-sso@3.662.0':
     resolution:
       {
         integrity: sha512-zxze6pDPgwBwl7S3h4JDALCCz93pTAfulbCY8FqMEd7GvnAiofHpL9svyt4+gytXwwUSsQ6KxCMVLbi+8k8YIg==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/credential-provider-web-identity@3.662.0':
+  '@aws/credential-provider-web-identity@3.662.0':
     resolution:
       {
         integrity: sha512-GhPwxmHSFtwCckuT+34JG+U99qKfDWVYPLJOPI6b35+aLhfVqW5CHPmVjtM4WZqbxzsA0a3KAYA/U1ZaluI4SA==,
       }
     engines: { node: '>=16.0.0' }
     peerDependencies:
-      '@aws-sdk/client-sts': ^3.662.0
+      '@aws/client-sts': ^3.662.0
 
-  '@aws-sdk/middleware-host-header@3.662.0':
+  '@aws/middleware-host-header@3.662.0':
     resolution:
       {
         integrity: sha512-Gkb0J1LTvD8LOS8uwoRI5weFXvvJwP1jfnYwzQrFgLymRFHJm5JtORQZtmw34dtdou+IBTUsH1mgI8b3QVVH3w==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/middleware-logger@3.662.0':
+  '@aws/middleware-logger@3.662.0':
     resolution:
       {
         integrity: sha512-aSpwVHtfMlqzpmnmmUgRNCaIcxXdRrGqGWG+VWXuYR1F6jJARDDCxGkSuKiPEOLX0h0BroUo4gqbM8ILXQ8rVw==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/middleware-recursion-detection@3.662.0':
+  '@aws/middleware-recursion-detection@3.662.0':
     resolution:
       {
         integrity: sha512-V/MYE+LOFIQDLnpWMHLxnKu+ELhD3pLOrWXVhKpVit6YcHxaOz6nvB40CPamSPDXenA11FGXKAGNHZ0loTpDQg==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/middleware-user-agent@3.662.0':
+  '@aws/middleware-user-agent@3.662.0':
     resolution:
       {
         integrity: sha512-NT940BLSSys/A8W3zO3g2Kj+zpeydqGbSQgN6qz84jTskQjnrlamoq+Zl9Rrp8Cn8sC10UQ09kGg97lvjVOlmg==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/region-config-resolver@3.662.0':
+  '@aws/region-config-resolver@3.662.0':
     resolution:
       {
         integrity: sha512-MDiWl4wZSVnnTELLb+jFSe0nj9HwxJPX2JnghXKkOXmbKEiE2/21DCQwU9mr9VUq2ZOQqaSnMFPr94iRu0AVTQ==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/token-providers@3.662.0':
+  '@aws/token-providers@3.662.0':
     resolution:
       {
         integrity: sha512-OqtBPutNC9Am10P1W5IwqRvzCVQAHRxWxZnfDBh1FQjNmoboGWYSriKxbrCRYLFffusNuzo8KnOFOmg1sRlhJQ==,
       }
     engines: { node: '>=16.0.0' }
     peerDependencies:
-      '@aws-sdk/client-sso-oidc': ^3.662.0
+      '@aws/client-sso-oidc': ^3.662.0
 
-  '@aws-sdk/types@3.662.0':
+  '@aws/types@3.662.0':
     resolution:
       {
         integrity: sha512-Ff9/KRmIm8iEzodxzISLj4/pB/0hX2nVw1RFeOBC65OuM6nHrAdWHHog/CVx25hS5JPU0uE3h6NlWRaBJ7AV5w==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/types@3.734.0':
+  '@aws/types@3.734.0':
     resolution:
       {
         integrity: sha512-o11tSPTT70nAkGV1fN9wm/hAIiLPyWX6SuGf+9JyTp7S/rC2cFWhR26MvA69nplcjNaXVzB0f+QFrLXXjOqCrg==,
       }
     engines: { node: '>=18.0.0' }
 
-  '@aws-sdk/util-endpoints@3.662.0':
+  '@aws/util-endpoints@3.662.0':
     resolution:
       {
         integrity: sha512-RQ/78yNUxZZZULFg7VxT7oObGOR/FBc0ojiFoCAKC20ycY8VvVX5Eof4gyxoVpwOP7EoZO3UlWSIqtaEV/X70w==,
       }
     engines: { node: '>=16.0.0' }
 
-  '@aws-sdk/util-locate-window@3.723.0':
+  '@aws/util-locate-window@3.723.0':
     resolution:
       {
         integrity: sha512-Yf2CS10BqK688DRsrKI/EO6B8ff5J86NXe4C+VCysK7UOgN0l1zOTeTukZ3H8Q9tYYX3oaF1961o8vRkFm7Nmw==,
       }
     engines: { node: '>=18.0.0' }
 
-  '@aws-sdk/util-user-agent-browser@3.662.0':
+  '@aws/util-user-agent-browser@3.662.0':
     resolution:
       {
         integrity: sha512-5wQd+HbNTY1r1Gndxf93dAEFtKz1DqcalI4Ym40To+RIonSsYQNRomFoizYNgJ1P+Mkfsr4P1dy/MNTlkqTZuQ==,
       }
 
-  '@aws-sdk/util-user-agent-node@3.662.0':
+  '@aws/util-user-agent-node@3.662.0':
     resolution:
       {
         integrity: sha512-vBRbZ9Hr1OGmdJPWj36X0fR8/VdI2JiwK6+oJRa6qfJ6AnhqCYZbCyeA6JIDeEu3M9iu1OLjenU8NdXhTz8c2w==,
